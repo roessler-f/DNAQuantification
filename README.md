@@ -9,4 +9,12 @@ To set up the DNA content quantification workflow, you need to perform the follo
 git clone https://github.com/roessler-f/DNAQuantification
 ```
 
-2. Download the image processing software **Fiji** to run the macro script *contrastEnhancementAndScale.ijm*. You can download the software and find installation instructions using the following link: https://imagej.net/software/fiji/
+2. Download and install the image processing software **Fiji** to run the macro script *contrastEnhancementAndScale.ijm*. You can download the software and find installation instructions using the following link: https://imagej.net/software/fiji/
+
+3. Python
+
+4. Download and install **MATLAB** to run the script *measureDNALength.m*. You can get MATLAB using the following link: https://se.mathworks.com/products/get-matlab.html
+
+  Additionally to the basic version of MATLAB, you need the **[Image Processing Toolbox](https://se.mathworks.com/help/images/getting-started-with-image-processing-toolbox.html)**   to run the script. 
+
+5.  
