@@ -1,0 +1,8 @@
+print_function
+numpy
+scipy
+imageio
+tensorflow-gpu==1.15
+six
+Image
+datetime
