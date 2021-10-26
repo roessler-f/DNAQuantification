@@ -26,4 +26,8 @@ pip install -r python_requirements.txt
 ```
 
 6. Download and install **MATLAB** to run the script *measureDNALength.m*. You can get MATLAB using this [link](https://se.mathworks.com/products/get-matlab.html). Additionally to the basic version of MATLAB, you need the **[Image Processing Toolbox](https://se.mathworks.com/help/images/getting-started-with-image-processing-toolbox.html)** to run the script. 
- 
+
+# Setup before first use
+How to run the DNA content quantification workflow is described in the following book chapter: ...
+Before running the Python and the MATLAB script, you need to perform the following steps:
+1. ...
