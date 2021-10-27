@@ -49,4 +49,4 @@ whole_image_size = ...							# e.g. whole_image_size = 1025
 inputpath = ...;
 ```
 
-👉 **ATTENTION:** All scripts expect the input folders to contain the images acquired in one tile set to be saved in a subfolder (e.g. “…/input folder/tile set 1/”, “…/input folder/tile set 2/” etc.). So when defining an input folder, make sure to use the correct directory (= not a single tile set folder).   
+⚠️ **ATTENTION:** All scripts expect the input folders to contain the images acquired in one tile set to be saved in a subfolder (e.g. “…/input folder/tile set 1/”, “…/input folder/tile set 2/” etc.). So when defining an input folder, make sure to use the correct directory (= not a single tile set folder).   
